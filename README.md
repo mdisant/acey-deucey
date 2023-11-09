@@ -1,2 +1,2 @@
 # acey-deucey
- Acey deucey card game simulation to find optimal betting strategy using unsupervised machine learning.
+ Acey Deucey (In-Between) card game simulation to find optimal betting strategy using unsupervised machine learning.
